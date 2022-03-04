@@ -1,2 +1,1 @@
-# LottoPredictor
-# WIP
+WIP
